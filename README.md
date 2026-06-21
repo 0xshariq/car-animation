@@ -138,13 +138,11 @@ This project demonstrated the importance of testing, benchmarking, and optimizat
 ```text
 .
 ├── README.md
-├── project-files/
-│   └── car-animation.blend
+├── bmw.blend
 ├── final-output/
-│   ├── 12fps-car-animation.mp4
-│   └── 24fps-animation.mp4
-└── screenshots/
-    └── (coming soon)
+│   ├── 12fps-bmw-animation.mp4
+│   └── 24fps-bmw-animation.mp4
+└── 
 ```
 
 ## 🎓 Learning Outcomes
